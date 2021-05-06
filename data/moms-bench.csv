@@ -1,0 +1,62 @@
+work,l_first,l_last,spkr,addr
+Iliad,1.352,356,Achilles,Thetis
+Iliad,1.362,363,Thetis,Achilles
+Iliad,1.365,412,Achilles,Thetis
+Iliad,1.414,427,Thetis,Achilles
+Iliad,1.586,594,Hephaestus,Hera
+Iliad,5.373,374,Dione,Aphrodite
+Iliad,5.376,380,Aphrodite,Dione
+Iliad,5.382,415,Dione,Aphrodite
+Iliad,6.254,262,Hecuba,Hector
+Iliad,6.264,285,Hector,Hecuba
+Iliad,15.104,112,Hera,gods
+Iliad,15.115,118,Ares,gods
+Iliad,18.73,77,Thetis,Achilles
+Iliad,18.79,93,Achilles,Thetis
+Iliad,18.95,96,Thetis,Achilles
+Iliad,18.98,126,Achilles,Thetis
+Iliad,18.128,137,Thetis,Achilles
+Iliad,19.8,11,Thetis,Achilles
+Iliad,19.21,27,Achilles,Thetis
+Iliad,19.29,36,Thetis,Achilles
+Iliad,21.331,341,Hera,Hephaestus
+Iliad,21.379,380,Hera,Hephaestus
+Iliad,22.82,89,Hecuba,Hector
+Iliad,22.431,436,Hecuba,Hector
+Iliad,24.128,137,Thetis,Achilles
+Iliad,24.139,140,Achilles,Thetis
+Iliad,24.748,759,Hecuba,Hector
+Odyssey,1.346,359,Telemachus,Penelope
+Odyssey,11.155,162,Anticlea,Odysseus
+Odyssey,11.164,179,Odysseus,Anticlea
+Odyssey,11.181,203,Anticlea,Odysseus
+Odyssey,11.210,214,Odysseus,Anticlea
+Odyssey,11.216,224,Anticlea,Odysseus
+Odyssey,17.41,44,Penelope,Telemachus
+Odyssey,17.46,56,Telemachus,Penelope
+Odyssey,17.101,106,Penelope,Telemachus
+Odyssey,17.108,149,Telemachus,Penelope
+Odyssey,18.215,225,Penelope,Telemachus
+Odyssey,18.227,242,Telemachus,Penelope
+Odyssey,21.344,353,Telemachus,Penelope
+Odyssey,23.97,103,Telemachus,Penelope
+Odyssey,23.105,110,Penelope,Telemachus
+Argonautica,1.278,291,Alcimede,Jason
+Argonautica,1.295,305,Jason,Alcimede
+Argonautica,3.129,144,Aphrodite,Eros
+Argonautica,3.151,153,Aphrodite,Eros
+Argonautica,3.260,267,Chalciope,Argus
+Aeneid,1.321,324,Venus (in disguise),Aeneas and Achates
+Aeneid,1.326,334,Aeneas,Venus
+Aeneid,1.335,370,Venus (in disguise),Aeneas
+Aeneid,1.372,385,Aeneas,Venus
+Aeneid,1.387,401,Venus,Aeneas 
+Aeneid,1.407,409,Aeneas,Venus
+Aeneid,1.664,688,Venus,Cupido
+Aeneid,2.594,620,Venus,Aeneas
+Aeneid,2.657,670,Aeneas,Anchises and Venus and Trojans
+Aeneid,6.194,197,Aeneas,two doves and Venus
+Aeneid,8.612,614,Venus,Aeneas
+Aeneid,9.83,92,Cybele,Jupiter
+Aeneid,9.94,103,Jupiter,Cybele
+Aeneid,9.481,497,Euryalus' mother,Euryalus
