@@ -12,7 +12,7 @@ cltk==0.1.121
 cycler==0.10.0
 decorator==4.4.2
 defusedxml==0.6.0
--e git+https://github.com/cwf2/dices-client@67f13bf1b1392d3d3fcd3dd1c1c5666a8282cbb8#egg=dices_client
+-e git+https://github.com/cwf2/dices-client@177bef8d446862edf8c26ca270b0beb18b314b98#egg=dices_client
 entrypoints==0.3
 frozendict==1.2
 future==0.18.2
