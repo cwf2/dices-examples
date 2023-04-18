@@ -1,4 +1,4 @@
-#!/usr/bin/sh
+#!/bin/bash
 
 # download pickle files from Google Drive
 wget --no-check-certificate 'https://docs.google.com/uc?export=download&id=11HbOHMOFoTyzOsG1udu9qKhtDJnp-5Js' -O data/iliad_speeches.pickle
