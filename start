@@ -9,4 +9,4 @@ wget --no-check-certificate 'https://docs.google.com/uc?export=download&id=1W6dC
 git clone https://github.com/cwf2/canonical-greekLit data/canonical-greekLit
 
 # run CTS server
-capitains-nautilus data/canonical-greekLit
+capitains-nautilus data/canonical-greekLit &
